@@ -3,11 +3,11 @@ Proyecto Fina Business Analytics 2025-3 📊
 
 Repositorio del Proyecto Final de Business Analytics correspondiente al periodo 2025-3
 
-Descripción
+**Descripción**
 
 Este caso ofrece el desarrollo y el análisis de la investigacion sobre el impacto de la guerra en Ucrania en el indicador VIX (Indice del Miedo).
 
-Estructura del Repositorio
+**Estructura del Repositorio**
 
 data/: Bases de datos.
 
@@ -17,15 +17,15 @@ report/: Bases de datos utilizadas en clase.
 
 r_script/ : Codigo del analisis cuantitativo en lenguaje de programacion R.
 
-Herramientas y Lenguajes
+**Herramientas y Lenguajes**
 
 R
 
-Colaboradores
+**Colaboradores**
 
 Felipe Angel & Santiago Velásquez| Universidad Javeriana
 
-Profesor
+**Profesor**
 
 Juan Nicolás Velásquez Rey
 
