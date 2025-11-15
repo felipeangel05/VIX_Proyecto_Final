@@ -9,13 +9,13 @@ Este caso ofrece el desarrollo y el análisis de la investigacion sobre el impac
 
 **Estructura del Repositorio**
 
-data/: Bases de datos.
+* data/: Bases de datos.
 
-figures_tables/: gráficas tablas o visualizaciones.
+* figures_tables/: gráficas tablas o visualizaciones.
 
-report/: Bases de datos utilizadas en clase.
+* report/: Bases de datos utilizadas en clase.
 
-r_script/ : Codigo del analisis cuantitativo en lenguaje de programacion R.
+* r_script/ : Codigo del analisis cuantitativo en lenguaje de programacion R.
 
 **Herramientas y Lenguajes**
 
