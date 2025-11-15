@@ -1,5 +1,5 @@
 # VIX_Proyecto_Final
-Proyecto Fina Business Analytics 2025-3 📊
+**Proyecto Final Business Analytics 2025-3 **
 
 Repositorio del Proyecto Final de Business Analytics correspondiente al periodo 2025-3
 
